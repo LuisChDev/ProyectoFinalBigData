@@ -4,12 +4,12 @@ import csv
 import os
 
 # Authenticate to twitter
-auth = tweepy.OAuthHandler('########', '########')
-auth.set_access_token('########', '########')
+auth = tweepy.OAuthHandler('E###', 'b###')
+auth.set_access_token('1###', 'y###')
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 def get_followers(user_name):
-    n = 15
+    n = 1
     nx = 0
     followers = []
     for page in tweepy.Cursor(api.followers, screen_name=user_name, wait_on_rate_limit=True,count=200).pages():
@@ -82,18 +82,24 @@ def exporttwts(data, adj, user):
     f.close()
 
 def wipeprivs(data):
+    data2 = []
+    lenlt = len(data)
+    lx = 0
     for x in data:
         u = api.get_user(x)
         if u.protected == False:
-            print(x + ' not protected')
+            print(x + ' not protected (' + str(lx+1) + ' of ' + str(lenlt) + ')')
+            if u.statuses_count != 0:
+                data2.append(x)
         else:
-            print(x + ' protected')
-            data.remove(x)
-    return data
+            print(x + ' protected  (' + str(lx+1) + ' of ' + str(lenlt) + ')')
+        lx = lx + 1
+    print('Followers cleaned up.')
+    return data2
 
 def readfolls(data, adj):
     data = wipeprivs(data)
-
+    print('Scraping tweets...')
     for x in data:
         currtwts = scrapetweets(x)
         exporttwts(currtwts, adj, x)
@@ -104,17 +110,20 @@ def readfolls(data, adj):
 
 def scrapetweets(user):
     username = user
+    print('Scraping ' + str(user) + ' tweets...')
     count = 100
-    try:
-        # Creation of query method using parameters
-        tweets = tweepy.Cursor(api.user_timeline, id=username, tweet_mode='extended', wait_on_rate_limit=True).items(count)
-        # Pulling information from tweets iterable object
-        tweets_list = [tweet.full_text for tweet in tweets]
-    except tweepy.TweepError as e:
-        print("Going to sleep:", e)
-        time.sleep(60)
+    #while True:
+    #    try:
+            # Creation of query method using parameters
+    tweets = tweepy.Cursor(api.user_timeline, id=username, tweet_mode='extended', wait_on_rate_limit=True).items(count)
+            # Pulling information from tweets iterable object
+    tweets_list = [tweet.full_text for tweet in tweets]
+    return (tweets_list)
+    #    except tweepy.TweepError as e:
+    #        print("Going to sleep:", e)
+    #        time.sleep(60)
     #print(tweets_list)
-    return(tweets_list)
+    #return(tweets_list)
 
 def readlocal(usr):
     file = open('./data/' + str(usr) + '_cdata.txt', 'r+', encoding='utf-8')
@@ -131,7 +140,7 @@ def scrapecomp(arg1):
     #print(cdata)
     cdata = readfolls(cdata, u1)
 
-    file = open('./data/' + str(arg1) + '_cdata.txt', 'r+', encoding='utf-8')
+    file = open('./data/' + str(arg1) + '_cdata.txt', 'w+', encoding='utf-8')
     for x in cdata:
         file.write(str(x) + '\n')
 
