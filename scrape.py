@@ -4,8 +4,8 @@ import csv
 import os
 
 # Authenticate to twitter
-auth = tweepy.OAuthHandler('E90OamiunqcmLdxhuuFVyEXNi', 'bHwMGJHW9YQI8ECQmSRbUujzj1dV8pC2dCSY96zRLl08kInX5X')
-auth.set_access_token('1419562939-qUBiW9eQmPjmcteStrGJDbzgiXz7qgZwaF3vr92', 'yTGbKotGgOcJPgZXhlcmZSm8od1fJQ2PdvUqMiQ1nPows')
+auth = tweepy.OAuthHandler('########', '########')
+auth.set_access_token('########', '########')
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 def get_followers(user_name):
