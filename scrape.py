@@ -9,7 +9,7 @@ auth.set_access_token('1###', 'y###')
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 def get_followers(user_name):
-    n = 1
+    n = 15
     nx = 0
     followers = []
     for page in tweepy.Cursor(api.followers, screen_name=user_name, wait_on_rate_limit=True,count=200).pages():
@@ -98,19 +98,26 @@ def wipeprivs(data):
     return data2
 
 def readfolls(data, adj):
+    data2 = []
+    n = 0
     data = wipeprivs(data)
     print('Scraping tweets...')
     for x in data:
-        currtwts = scrapetweets(x)
-        exporttwts(currtwts, adj, x)
-    return data
+        try:
+            currtwts = scrapetweets(x, n)
+            exporttwts(currtwts, adj, x)
+            data2.append(x)
+            n = n + 1
+        except:
+            print('Exception. Skipping user ' + str(x))
+    return data2
 
     #f.close()
     #return rdata
 
-def scrapetweets(user):
+def scrapetweets(user, n):
     username = user
-    print('Scraping ' + str(user) + ' tweets...')
+    print('Scraping ' + str(user) + ' tweets...' + str(n) + ' done')
     count = 100
     #while True:
     #    try:
