@@ -9,7 +9,7 @@ auth.set_access_token('1###', 'y###')
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 def get_followers(user_name):
-    n = 15
+    n = 10
     nx = 0
     followers = []
     for page in tweepy.Cursor(api.followers, screen_name=user_name, wait_on_rate_limit=True,count=200).pages():
