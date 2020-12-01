@@ -3,6 +3,11 @@ import datetime
 
 analyser = SentimentIntensityAnalyzer()
 
+def readlocal(usr):
+    file = open('./data/' + str(usr) + '_cdata.txt', 'r+', encoding='utf-8')
+    lines = file.read().splitlines()
+    return(lines)
+
 # get XML files
 def get_files(master, filedir):
     task_n = sum(1 for x in master)
