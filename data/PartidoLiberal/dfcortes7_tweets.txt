@@ -1,0 +1,163 @@
+RT @CLOJUG: En pocos minutos iniciamos con la charla 👇
+@geovanny0401 @vaadin Congrats
+RT @CGuntur: Meetup/JUG organizers, how do you get attendees to register?
+RT @CLOJUG: 📢Toda la comunidad Java invitada este Sábado 28 de Noviembre 4:00PM GMT-5. Comunicación entre Aplicaciones Java, Usando ActiveM…
+RT @wololock: Are you interested in building command-line applications in @Java using @Micronautfw, @Picocli, and @GraalVM? 🔥 Check this vi…
+@catalinmpit C++ - FoxPro - Java/JEE - PHP - JavaScript - C# - Visual Basic .Net - Java/SpringBoot
+RT @CLOJUG: Todos atentos, se encuentra disponible el proceso de registro para la JConf Centroamérica 2020. 👇
+RT @jugnicaragua: Se parte del #JConfCentroamerica 2020: 4 países, una región, un evento, 30 conferencias, un mundo, el mundo java, el mund…
+RT @ESAJUG: JConf  Centroamérica 2020 un evento anual dirigido a promover las tecnologías JVM, traemos nuestro Kit, que incluye todo lo que…
+RT @CLOJUG: Hoy estuvo con nosotros @recantilloc del @JUGBAQ con su charla de Vaadin Framework - Web de Alto Impacto en Java https://t.co/a…
+RT @CafetoSoftware: #TGIF
+Fridays are the perfect days to celebrate the good news! We are excited to share our awesome and fresh-out-of-the…
+RT @CLOJUG: 📢Toda la comunidad Java invitada este Sábado 31 de Octubre 10:00AM GMT-5. Vaadin Framework - Web de Alto Impacto en Java por Ri…
+Una charla fantástica sobre Vaadin Webcomponents y Java  #JConfPeru2020 https://t.co/KIexCtmReA
+RT @java: 🔊 Inside Java Podcast - Episode 5: “The Z Garbage Collector (ZGC)” 🗑️
+
+@delabassee chats with @perliden about the Z Garbage Colle…
+RT @adoptopenjdk: 🎉  AdoptOpenJDK Reaches 200 Million Downloads 🎉 https://t.co/7TXSlS9WUd  by @gdams_ #AdoptOpenJDK #Downloads
+RT @geovanny0401: Estamos en vivo con @Alejandro_du de  @vaadin , que nos está hablando sobre #WebComponents para Desarrolladores #Java.
+Li…
+Todo invitados a inscribirse a este evento que será fantástico para todos los amantes de la tecnología Java https://t.co/tOKKjJZrPg
+RT @JUGBAQ: Están cordialmente invitados este sábado 17 de octubre del presente año, donde estaremos con un invitado especial @alejandro_du…
+RT @OpenJDK: JDK 16 Early-Access Build 18 is here:
+https://t.co/jhRedQAXIJ
+
+Release notes:
+https://t.co/71E4qLMlS2
+
+Issues addressed in thi…
+RT @perujug: List of Speaker updated. The JConfperu 2020 will be on October 23 and 24. Registration will be done on October 5, stay tuned.…
+RT @github: We’re excited to welcome the OpenJDK community to GitHub! Read about their move to GitHub on the blog: https://t.co/YU4NG7FxAS.
+RT @geovanny0401: Hoy estamos presentando nuestro libro en colaboración con @avbravo, @otaviojava  y la revisión de un gran amigo  Drabo Co…
+RT @CLOJUG: Muchas gracias a todas las personas que asistieron a la charla. Ya se encuentra disponible el video de: Fluent and Rich Asserti…
+RT @CLOJUG: Toda la comunidad Java invitada este Sábado 26 a las 5:00PM GMT-5, tendremos a Cristian Ballesteros como conferencista invitado…
+RT @omniprof: Here are 3 videos. 2 on JDBC &amp; 1 on Maven.  These were prepared a few years ago for when I was at Code One. All very basic.…
+“TikTok picked Oracle’s new Generation 2 Cloud infrastructure because it’s much faster, more reliable, and more secure than the first generation technology currently offered by all the other major cloud providers,” said Oracle Chief Technology Officer Larry Ellison.
+RT @Oracle: TikTok chose us! 
+https://t.co/nNlanLHJK9
+RT @CLOJUG: 📢 A toda la comunidad de Java de Cali y en general, super atentos que el evento @JakartaOneES se realizar el 12 de Octubre. Ya…
+RT @geovanny0401: Te has preguntado qué hay de nuevo en el mundo de Java, y cuáles son los pasos a seguir para una aplicación nativa en la…
+RT @JakartaOneES: ¡Atención comunidad #JakartaEE #JavaEE #microprofile #CloudNativeOn!
+
+¡El registro para JakartaOne Livestream en Español…
+📢En Sir4 hemos superado el primer ciclo de esta fantástica aventura y nos encontramos repletos de energía para afrontar los siguientes retos 💪 #MisiónCreadoresDigitales https://t.co/btOmCkttHp
+RT @jamdiazdiaz: https://t.co/2zaDm79vwM va a estar genial!!!.   Buen Trabajo @MirzaYael @miryan_ramirez @ytachi0026 Ya sale la agenda pron…
+RT @java: Oracle is proud to announce the availability of #Java 15!
+
+Download: https://t.co/DXhO6clfh7
+
+Release Notes: https://t.co/REOt9dL…
+@nachito79 https://t.co/bV50wJGWPv
+RT @CLOJUG: Boletín de noticias del grupo para Septiembre 2020.
+
+https://t.co/hmpwECjn5y
+
+¿Quieres recibirlo en tu bandeja de entrada? Susc…
+RT @codewarrior506: Les comparto un artículo/video de unas pruebas de  rendimiento de @QuarkusIO en #AWS Lambda
+https://t.co/yYnNJI9w13
+RT @jddarcy: New Git repo for the JDK now open for business: https://t.co/PgfNt8KW6p
+RT @dfcortes7: 📣Querida red, estoy en el reto #MisiónCreadoresDigitales y los invito a que me ayuden a responder una breve encuesta.
+ 
+👉 ht…
+RT @perujug: 24 de Octubre #JConfPeru2020 https://t.co/wzyOPku6mX
+RT @alejandro_du: New release: @Vaadin 17.0.0 https://t.co/I5Qk7BYt4k https://t.co/fVj9bHQF6A
+📣Querida red, estoy en el reto #MisiónCreadoresDigitales y los invito a que me ayuden a responder una breve encuesta.
+ 
+👉 https://t.co/GH8gjYnxYp
+RT @vaadin: New Vaadin 14 Reference Card now available!
+https://t.co/8Y92Vhsgf4
+RT @vaadin: That's right folks! Vaadin turns 20 today. The next few years are going to see some huge upgrades: UX-first collaborative exper…
+RT @alejandro_du: En Español: Codificación @Vaadin en vivo justo ahora! https://t.co/3E5aOxnPt5 @BolivianJUG #java
+RT @BolivianJUG: BolivianJUG Agosto 2020 https://t.co/LZMFoNEaFY
+#movedbyjava examples of Vaadin and Quarkus https://t.co/zHObg0g5Vp
+RT @alejandro_du: En vivo! Y en Español: @jamdiazdiaz y @geovanny0401 hablando sobre como certificarse en @Vaadin https://t.co/R2NXgHnvDs h…
+RT @java: “As Java turns 25, it can justifiably claim to be one of the most influential languages of the last quarter century.”
+
+@IDC refle…
+RT @OpenJDK: I just updated Metropolis repo to JDK 15 and build libgraal for it. So I decided share the process. 
+
+more @ https://t.co/dE9I…
+RT @javinpaul: Top 10 #Coursera #Courses to learn Software Development and Computer Science in 2020 - Best… https://t.co/BELr87EEbZ
+RT @CLOJUG: En poco minutos inicia la charla de @jamdiazdiaz 👇
+RT @omniprof: As part of my final year at Dawson College I am placing all my teaching materials on GitHub. All my source code is over at Gi…
+RT @miryan_ramirez: Hoy con los chicos de @JUGBAQ!! 👏👏👇👇🤩
+RT @debian: Participa en la #DebConf20 en español a partir de las 18:00h UTC. Hoy, "Shell ZSH en Debian" (18:00 UTC) seguido de "¿Puedo usa…
+RT @alejandro_du: A list of Open Source projects offering jobs. For those who want to work on open source and get paid https://t.co/y9fdHtG…
+RT @alejandro_du: Make any @java @vaadin component draggable https://t.co/UawWYCo8Ci https://t.co/sVgR0bf1F6
+RT @alejandro_du: New release: @Vaadin 14.3.4 https://t.co/905Get6FZC https://t.co/KxbIe005I6
+Asistiendo a una genial charla de #GroundBreakersTour donde Rita Nunez, Octavio Santana, Daniel Bozzolo, Pablo Ciccarello, Roy Salazar y Rolando Carrasco nos hablan sobre la importancia de ayudar y contribuir a la comunidad. https://t.co/A9e3V7NxMY
+@eMalaGupta Records
+RT @BolivianJUG: Anunciamos nuestro evento correspondiente al mes de Agosto, no te lo pierdas.
+
+@geovanny0401
+@JUGBAQ
+@EventosJEspanol
+#Jug…
+RT @JUGBAQ: Acompaña a Jose Diaz, Jug Leader @perujug, Java Champion, Fundador de https://t.co/ysqhgKcgG0.  En este #webinar nos hablará de…
+RT @mreinhold: Second JDK 15 Release Candidate: https://t.co/gN4ntDBDMd #jdk15 #java15 #openjdk #java #testItNow
+Muy interesante la charla de @codewarrior506 en @JUGBAQ Realmente quede sorprendido gratamente de la potencia de #Quarkus  👏👏👏
+RT @jddarcy: Coming soon to a JDK 16 EA build, JDK-8071961: Add javac lint warning when a default constructor is created
+https://t.co/3EHC6…
+RT @tomitribe: #JavaInEducation is an educational initiative supported by the @jcp_org EC that aims at helping #JUG Leaders engage with the…
+@javinpaul Eclipse
+As a passionate Java developer I think that it's very important to expose the students to technology of Java. There is a cool video about Java in education by @omniprof : Renewing Java's Place in Education https://t.co/nhVCGgvJ9S
+RT @java: You’ve been waiting for it and it’s finally here!
+The release of Eclipse Collections 10.3. (via @Medium)
+
+https://t.co/5gdD9oPRRr…
+RT @CLOJUG: Este 19 de Agosto estará @acelopezco en #GroundbreakersTour LATAM 2020. #FnProject #OracleFunctions
+ 
+👉 Registro: https://t.co/…
+RT @java: How do user-mode threads offer better application performance than OS threads?
+
+https://t.co/XivrSQBkGS https://t.co/Rp2TMqPRSs
+@JulianJaraUribe https://t.co/BxmLPzrtas
+Recomendado este podcast sobre Firestore - Firestore episodio de Snippets Tech por @jggomezt
+https://t.co/Y4T6dvBVMT
+RT @jggomezt: Estamos en una nueva temporada esta vez hablando de Google Cloud Platform. En este episodio hablo sobre #Firestore. Una base…
+RT @jggomezt: Empezamos.... @GDGCali
+#android
+
+https://t.co/JRaPLujQmp
+RT @CLOJUG: Jakarta One en Español 2020 es una conferencia virtual de un día para ingenieros y líderes empresariales sobre Jakarta ™ EE y s…
+#PrayForBeirut
+RT @geovanny0401: Panel: Java in the next step, what do we expect in the cloud-native technologies? 
+@gugalnikov @cajasmota @otaviojava 
+Co…
+RT @JakartaEE: The deadline to submit your paper for @JakartaOneConf has been extended! Submit soon for your chance to speak at this year's…
+RT @Payara_Fish: Payara Micro by default automatically creates a data grid between multiple instances when they start. This is designed to…
+RT @OpenJDK: Targeted to JDK 16: JEP 347: Enable C++14 Language Features: https://t.co/c8f0NxRmh5 #jdk16 #openjdk #java
+RT @Oraclejavamag: It’s almost here! Follow the transition of #JDK15 #JDK16 from @MercurialScm to @github @java @InfoWorld @pjkrill @Oracle…
+@polygonaldg @felipean360
+RT @debian: Updated Debian 10: 10.5 released https://t.co/G8HLuIdd0K
+RT @SharpeMartha: Why you shouldn't hire a developer purely based on their coding skills. https://t.co/NEohxRk3qR
+RT @CLOJUG: Boletín de noticias del grupo para Julio 2020
+
+🌐 https://t.co/X60CPilTT1
+
+¿ Quieres recibirlo en tu bandeja de entrada?
+Suscríb…
+RT @venkat_s: “Dad, can you take a look? This does not work.”
+
+“Have you tried it with a different browser.”
+
+!! “Hum, that works. Why? Wha…
+@LeonidasEsteban Flutter forever!
+I was looking though my old box of books and I did find a demo how my generation learned programming. https://t.co/pr2lrKv0JJ
+RT @ijansch: Good news. Both Apple and google have released source code for their exposure notification apis. Apple: https://t.co/IlkG61lRr…
+RT @adoptopenjdk: AdoptOpenJDK 8u262, 11.0.8, and 14.0.8 Available https://t.co/U6aYTgaImB #announcement #openjdk #java #release
+RT @venkat_s: Force Good Habits
+
+https://t.co/9VO94iYb1n
+RT @jggomezt: Mi último video sobre Firebase emulators UI, para usar de formal local, firestore o realtime database o functions
+
+https://t.…
+RT @Reuters: Scientists warn of potential wave of COVID-linked brain damage https://t.co/AaDpF3IqDW https://t.co/tvk9YKDF95
+RT @alejandro_du: Vote now! #java
+RT @GDGCali: Tendremos grandes invitados al evento https://t.co/dBx6KDOFHg With GDGCali, no olvides registrarte. Evento 100% Online y sin c…
+@AdriMileG Llama al Banco a desactivar esas tarjetas, se ven los números y su nombre.
+RT @haysstanford: https://t.co/Dw6kBoyiUO
+RT @alejandro_du: Using @Vaadin with @Kotlin  https://t.co/2R9pbnxlHy https://t.co/WWyhDMHOUW
+RT @alejandro_du: Interest in #microservices by #Java developers has decreased by 4% since last year. The @EclipseFdn  believes this might…
+Un tal Alonso Quijano - Película completa en español | 2020 (4k &amp; HD) https://t.co/YMDP8KEttK a través de @YouTube
