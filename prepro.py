@@ -26,6 +26,10 @@ def get_files(master, filedir):
 def build_dict(filedir ,author):
     file = open("./data/" + filedir + '/' + author + "_tweets.txt", 'r+', encoding='utf-8')
     lines = file.readlines()
+    if len(lines) > 0:
+        total = len(lines)
+    else:
+        total = 1  # cero tweets, da igual
 
     # XML stuff
     #tree = ET.parse(file)
@@ -84,18 +88,18 @@ def build_dict(filedir ,author):
         tags += text.count('@')
 
     entrydict = {
-        "author" : author,
-        "rts" : rts,
-        "links" : links,
-        "punctuation" : punctuation,
-        "hashtags" : hashtags,
-        "tags" : tags,
-        #"botvalue" : 0,
-        "positive" : positive/100,
+        "author": author,
+        "rts": rts/total,
+        "links": links/total,
+        "punctuation": punctuation/total,
+        "hashtags": hashtags/total,
+        "tags": tags/total,
+        # "botvalue": 0,
+        "positive": positive/100,
         "neutral": neutral/100,
         "negative": negative/100,
         "compound": compound/100
-        #"suspicious_words": suspicious_words
+        # "suspicious_words": suspicious_words
     }
 
     return entrydict

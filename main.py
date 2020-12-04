@@ -1,15 +1,18 @@
 import scrape
 import prepro
 
-u1 = 'ceDemocratico'
-filedir = u1
-localfiles = False
+u1 = 'cedemocratico'
+filedir_ = u1
+localfiles_ = True
 
-if localfiles == False:
-    dir = scrape.scrapecomp(u1)
-else:
-    dir = prepro.readlocal(u1)
-#print(dir)
-dset = prepro.get_files(dir, filedir)
-print(dset)
+# wrapping in a function
 
+
+def main(partido=u1, filedir=u1, localfiles=True):
+    if not localfiles:
+        dir = scrape.scrapecomp(partido)
+    else:
+        dir = prepro.readlocal(partido)
+
+    dset = prepro.get_files(dir, filedir)
+    return dset
